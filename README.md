@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Sreejesh A!
 
 ## 💻 About Me
-I'm a passionate **Fullstack Developer, MCA student, and Tech Explorer** from Kerala, India 🇮🇳. Currently pursuing my **Master of Computer Applications** from Government Engineering College, Thrissur (under APJ Abdul Kalam Technological University). Whether it's solving tricky problems on LeetCode, experimenting with backend frameworks, or casually dreaming up a 3D zombie game—I enjoy the journey of learning as much as the destination.
+I'm a passionate **Fullstack Developer, MCA student, and Tech Explorer** from Kerala, India 🇮🇳. Currently pursuing my **Master of Computer Applications** from Government Engineering College, Thrissur (under APJ Abdul Kalam Technological University). Whether it's solving tricky problems on LeetCode, experimenting with backend frameworks, I enjoy the journey of learning as much as the destination.
 
 I believe in consistency, simplicity, and creating things that solve real problems or spark curiosity. When I’m not coding, you’ll probably find me relaxing with a cup of tea ☕ and enjoying good conversations.
 
