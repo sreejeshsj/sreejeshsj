@@ -45,15 +45,17 @@ Let’s build something awesome together! 🚀
 ---
 
 ## 📝 Currently Learning
-- Deep diving into the **MERN Stack**:
+- Deep diving into the **MERN Stack** and **AI/ML**:
   - 📦 **MongoDB**: Data modeling, Aggregation pipelines, Indexing for performance.
   - 🚂 **Express.js**: Building REST APIs, Middleware handling, Error management.
   - ⚛️ **React.js**: Functional components, Hooks (useState, useEffect), Context API, and integrating with backend APIs.
   - 🌐 **Node.js**: Server-side logic, File handling, JWT Authentication, WebSockets.
+  - 🤖 **AI/ML with Python**: Data preprocessing (NumPy, Pandas), Model building (Scikit-learn, TensorFlow, Keras), Computer Vision (OpenCV), Deep Learning architectures (CNN, LSTM).
 - Authentication & Authorization (JWT, OAuth)
 - MERN stack deployment (Render, Vercel, Railway)
 - Clean Code & Best Practices in Full-Stack Development
 - Improving UI/UX skills (Tailwind CSS, Framer Motion)
+
 
 ---
 
