@@ -1,7 +1,13 @@
 # 👋 Hey there, I'm Sreejesh A!
 
 ## 💻 About Me
-I'm a passionate **Fullstack Developer, MCA student, and Tech Explorer** from Kerala, India 🇮🇳. Currently pursuing my **Master of Computer Applications** from Government Engineering College, Thrissur (under APJ Abdul Kalam Technological University). Whether it's solving tricky problems on LeetCode, experimenting with backend frameworks, I enjoy the journey of learning as much as the destination.
+I’m Sreejesh, an AI/ML Engineer and MCA graduate from Kerala, India 🇮🇳. I completed my Master of Computer Applications from Government Engineering College, Thrissur (under APJ Abdul Kalam Technological University).
+
+My primary focus is on Artificial Intelligence and Machine Learning, where I enjoy building intelligent systems, experimenting with models, and solving real-world problems using data-driven approaches. I have a strong interest in areas such as deep learning, NLP, computer vision, and applied AI solutions.
+
+Alongside AI/ML, I also explore backend development and problem solving through platforms like LeetCode, constantly improving my analytical and coding skills.
+
+I believe in consistency, simplicity, and creating technology that makes a meaningful impact. My goal is to contribute to innovative AI solutions that are practical, scalable, and beneficial to society.
 
 I believe in consistency, simplicity, and creating things that solve real problems or spark curiosity. When I’m not coding, you’ll probably find me relaxing with a cup of tea ☕ and enjoying good conversations.
 
